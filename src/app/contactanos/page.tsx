@@ -24,7 +24,7 @@ export default function Contactanos() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-gray-800">Dirección</h3>
-                    <p className="text-gray-700">Ciudad de México, México</p>
+                    <p className="text-gray-700">Laguna del Jabalí # 521, Col. La Rivera. Colima, México.</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -35,7 +35,7 @@ export default function Contactanos() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-gray-800">Teléfono</h3>
-                    <p className="text-gray-700">(123) 456-7890</p>
+                    <p className="text-gray-700">+52-312-145-9638</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">
@@ -46,7 +46,7 @@ export default function Contactanos() {
                   </div>
                   <div>
                     <h3 className="text-xl font-bold text-gray-800">Email</h3>
-                    <p className="text-gray-700">info@simm.com</p>
+                    <p className="text-gray-700">facturacionsimm046@gmail.com</p>
                   </div>
                 </div>
               </div>

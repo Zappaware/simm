@@ -8,9 +8,9 @@ export default function Footer() {
           {/* Contact Info */}
           <div className="text-center sm:text-left">
             <h3 className="text-lg sm:text-xl font-bold mb-3 sm:mb-4">Contáctanos</h3>
-            <p className="mb-2 text-sm sm:text-base">Email: info@simm.com</p>
-            <p className="mb-2 text-sm sm:text-base">Teléfono: (123) 456-7890</p>
-            <p className="text-sm sm:text-base">Dirección: Ciudad de México, México</p>
+            <p className="mb-2 text-sm sm:text-base">Email: facturacionsimm046@gmail.com</p>
+            <p className="mb-2 text-sm sm:text-base">Teléfono: +52-312-145-9638</p>
+            <p className="text-sm sm:text-base">Dirección: Laguna del jabalí # 521, Col. La Rivera. Colima, México.</p>
           </div>
 
           {/* Quick Links */}
